@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Routes, Route } from "react-router-dom";
-import Topbar from "./pages/global/Topbar";
-import Sidebar from "./pages/global/Sidebar";
+import Topbar from "./components/global/Topbar";
+import Sidebar from "./components/global/Sidebar";
 import Dashboard from "./pages/dashboard";
 import Team from "./pages/team";
 import Invoices from "./pages/invoices";
