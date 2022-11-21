@@ -16,7 +16,7 @@ yarn or npm install
 To run the app
 
 ```
-yarn start or npm run start
+yarn run dev or npm run dev
 
 ```
 
